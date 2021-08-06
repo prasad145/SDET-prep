@@ -1,5 +1,6 @@
 # SDET Track
-![Source](https://www.guru99.com/)
+![Source](https://www.guru99.com/): ![image](https://user-images.githubusercontent.com/50115378/128474292-05a69a4c-69cb-4b9e-952c-0cefac47af20.png)
+
 ## Software Development Engineer in Test Preparation
 ### Software Testing:
    Software Testing is a method to check whether the actual software product matches expected requirements and to ensure that software product is Defect free. It involves execution of software/system components using manual or automated tools to evaluate one or more properties of interest. The purpose of software testing is to identify errors, gaps or missing requirements in contrast to actual requirements.
@@ -76,4 +77,21 @@
 ### Manual Testing
    Manual Testing is type of software testing where test cases are executed manually by a tester without using any automated tools. The purpose of Manual Testing is to identify the bugs, issues, and defects in the software application.
    
-            
+   ### 1. Types of Manual Testing
+   ![types](https://cdn.guru99.com/images/typesofmanualtesting.png)
+   
+   ### 2. How To perform Manual Testing
+   - Read and understand the software project documentation/guides. Also, study the Application Under Test (AUT) if available.
+   - Draft Test cases that cover all the requirements mentioned in the documentation.
+   - Review and baseline the test cases with Team Lead, Client (as applicable)
+   - Execute the test cases on the AUT
+   - Report bugs.
+   - Once bugs are fixed, again execute the failing test cases to verify they pass.
+   
+   ### 3. Manual Vs Automation Testing
+   | Manual Testing  | Automation Testing |
+   | ------------- | ------------- |
+   | Manual testing requires human intervention for test execution.  | Automation Testing is use of tools to execute test cases  |
+   | Manual testing will require skilled labour, long time & will imply high costs.  | Manual testing will require skilled labour, long time & will imply high costs.  |
+   |Any type of application can be tested manually, certain testing types like ad-hoc, whose functional modules changes frequently|Automated testing is recommended only for stable systems and is mostly used for Regression Testing|
+   |Manual testing can become repetitive and boring.|The boring part of executing same test cases time and again is handled by automation software in Automation Testing.|
